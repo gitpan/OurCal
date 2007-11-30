@@ -1,6 +1,6 @@
 ---
 name: OurCal
-version: 1.0
+version: 1.1
 author:
   - 'Simon Wistow <simon@thegestalt.org>'
 abstract: a simple yet featureful personal calendaring system
@@ -33,7 +33,7 @@ requires:
 provides:
   OurCal:
     file: lib/OurCal.pm
-    version: 1.0
+    version: 1.1
   OurCal::Config:
     file: lib/OurCal/Config.pm
   OurCal::Day:
